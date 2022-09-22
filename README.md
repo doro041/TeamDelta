@@ -1,2 +1,1 @@
-# TeamDelta
-CS3028
+# CS3028 TeamDelta Repository
